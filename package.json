@@ -1,0 +1,22 @@
+{
+  "name": "nblog-node-naverd2-nodestarter",
+  "version": "1.0.0",
+  "description": "nblog-node-naverd2-nodestarter",
+  "main": "index.js",
+  "repository": "https://github.com/countrydev76blog/nblog-node-naverd2-nodestarter.git",
+  "author": "magmajo <countrydev76@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "joi": "^14.3.1",
+    "node-fetch": "^2.5.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
